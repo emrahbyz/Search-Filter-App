@@ -1,8 +1,9 @@
-# React + Vite
+<h3>React ile filter ve map metotlarını kullanarak yaptığım bir filter uygulaması </h3>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Projeyi kodlarken çektiğim youtube videosu : https://www.youtube.com/watch?v=Y38zDxltzuU
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![img1](https://github.com/emrahbyz/Search-Filter-App/assets/146847947/c415dd16-5370-42c8-8d63-3caace7bbb0c)
+![img2](https://github.com/emrahbyz/Search-Filter-App/assets/146847947/85d87572-0fb0-4ec2-88f1-4edb05503007)
+![img3](https://github.com/emrahbyz/Search-Filter-App/assets/146847947/10cc3f1b-38a7-4c16-80cb-4173c638b69c)
+![img4](https://github.com/emrahbyz/Search-Filter-App/assets/146847947/5c8beee2-0ec9-41ba-9567-2dd60950f907)
